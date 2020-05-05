@@ -25,3 +25,6 @@ I have a lot of files in the machine learning section, but it is actually caused
 In the dashboard sections, unfortunately there are model files that can not be uploaded (the sizes are too big) -- sorry about that.
 
 I would like to extend my gratitude to my lecturer, Cornellius Yudha and my classmates who helped and supported me during this project. Thank you!
+
+
+Update 05/05/20: Added revision files in machine learning folder -- using random forest model
