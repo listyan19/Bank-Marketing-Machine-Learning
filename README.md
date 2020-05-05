@@ -27,4 +27,4 @@ In the dashboard sections, unfortunately there are model files that can not be u
 I would like to extend my gratitude to my lecturer, Cornellius Yudha and my classmates who helped and supported me during this project. Thank you!
 
 
-Update 05/05/20: Added revision files in machine learning folder -- using random forest model
+<b>Update 05/05/20:</b> Added revision files in machine learning folder -- using random forest model
